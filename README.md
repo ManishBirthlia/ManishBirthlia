@@ -1,18 +1,22 @@
-<p align="center"><h2 align="center"><samp> Hi there! </samp></h2></p>
+
+<!-- <img align="right" height="260px" width="300px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
+<p align="center"><h2 align="center"> <samp>👋Hi there!😀 </samp></h2></p>
 <p align="center"><h1 align="center"><samp> I am your friendly neighborhood MANISH 😁!
  </samp></h1></p>
 <p align="center"><h4 align="center"><samp> Experience is the name everyone gives to their mistakes </samp></h4></p>
 
 <p align="center"> 
 	<a href="https://github.com/ManishBirthlia"><img src="https://komarev.com/ghpvc/?username=ManishBirthlia" alt="ManishBirthlia"/></a>
-	<a href="https://github.com/ManishBirthlia?tab=repositories"><img src="https://badges.pufler.dev/repos/ManishBirthlia" alt="ManishBirthlia" /> </a>
+	<a href="https://github.com/ManishBirthlia?tab=repositories"><img src="https://badges.pufler.dev/repos/ManishBirthlia" alt="ManishBirthlia" /></a>
 	<img src="https://img.shields.io/github/stars/ManishBirthlia?label=Stars" alt="Total Stars">
 </p>
 <br>
 <!--  -->
 <!-- contribution graph -->
 <!-- img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="300px" alt=gif align="right"--> 
-<img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/>
+<!-- <img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/> -->
+<!-- <img align="right" ="10px" width="400px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
+<img align="right" width="590px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/6225d1124e42f.jpg"/>
 <div width="50%">
 	
 - 🔭 I’m currently learning  <samp align="center">  -- Python and Web Dev -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
