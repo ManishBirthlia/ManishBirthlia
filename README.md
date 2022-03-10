@@ -28,8 +28,16 @@
 - 🥇 Open Source and Coding Enthusiast.
 - 😄 Pronouns: He/His.
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136/), manishbirthliya@gmail.com
-</div>
+<!-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136/), manishbirthliya@gmail.com
+</div> -->
+### Connect with me on :left_speech_bubble:
+<br>	
+<p align="left">
+<a href="https://https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136//" height="30" width="40" /></a>
+<a href="https://leetcode.com/ManishBirthlia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
+<a href="https://twitter.com/BirthliaManish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
+<a href="https://www.instagram.com/manishbirthlia_0_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishbirthlia_0_0" height="30" width="40" /></a>
+</p>
  
 	
 ## Languages and Tools </h3>
