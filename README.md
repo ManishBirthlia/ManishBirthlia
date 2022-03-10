@@ -186,4 +186,9 @@
 ## Statistics
 |<img src="https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBirthlia&theme=dark&hide_border=true"/>|
 |---|---|
-  
+|<p width="50%" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>|
+
+<br>
+|<img align="right" width="48%" src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true" alt="ovi" />
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true)
+  -->
