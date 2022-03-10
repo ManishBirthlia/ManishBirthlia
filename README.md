@@ -184,11 +184,24 @@
   	
    
 ## Statistics
-|<img src="https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBirthlia&theme=dark&hide_border=true"/>|
+<!-- |<img src="https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBirthlia&theme=dark&hide_border=true"/>|
 |---|---|
-|<p width="50%" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>|
-
-<br>
-|<img align="right" width="48%" src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true" alt="ovi" />
+|<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>|<img src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true" alt="ovi" />|
+  -->
+	
+<table>
+<thead>
+<tr>
+<th width="50%"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5fd6d3bfcd9ff942f52e6b8c4f3c3e8beeeec50002d19324db876340fef963d7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d616e69736842697274686c69612673686f775f69636f6e733d747275652626636f756e745f707269766174653d74727565267468656d653d7261646963616c26746578745f636f6c6f723d666666267469746c655f636f6c6f723d4635384230322669636f6e5f636f6c6f723d463538423032"><img src="https://camo.githubusercontent.com/5fd6d3bfcd9ff942f52e6b8c4f3c3e8beeeec50002d19324db876340fef963d7/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4d616e69736842697274686c69612673686f775f69636f6e733d747275652626636f756e745f707269766174653d74727565267468656d653d7261646963616c26746578745f636f6c6f723d666666267469746c655f636f6c6f723d4635384230322669636f6e5f636f6c6f723d463538423032" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ManishBirthlia&amp;show_icons=true&amp;&amp;count_private=true&amp;theme=radical&amp;text_color=fff&amp;title_color=F58B02&amp;icon_color=F58B02"></a></th>
+<th><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ee58d3a9d88f4466afbe5e3d45c2f0789b8645c2920ab320b44b4ced8daf85ea/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d616e69736842697274686c6961267468656d653d6461726b26686964655f626f726465723d74727565"><img width="100%" src="https://camo.githubusercontent.com/ee58d3a9d88f4466afbe5e3d45c2f0789b8645c2920ab320b44b4ced8daf85ea/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d616e69736842697274686c6961267468656d653d6461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBirthlia&amp;theme=dark&amp;hide_border=true"></a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e53c1b37ed0c6ebaa4a24334f16774885c8105fd6d8ba9c369c790dd4b18ec8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d616e69736842697274686c69612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d68696768636f6e7472617374"><img width="100%" src="https://camo.githubusercontent.com/e53c1b37ed0c6ebaa4a24334f16774885c8105fd6d8ba9c369c790dd4b18ec8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d616e69736842697274686c69612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d68696768636f6e7472617374" alt="ovi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=highcontrast"></a></p></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c65c861d2a23cb26d942ea0372935522cffd33b2c011af20367a9f0b6b671af1/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4d616e69736842697274686c6961267468656d653d67727576626f7826686964655f626f726465723d7472756526617265613d74727565"><img src="https://camo.githubusercontent.com/c65c861d2a23cb26d942ea0372935522cffd33b2c011af20367a9f0b6b671af1/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4d616e69736842697274686c6961267468656d653d67727576626f7826686964655f626f726465723d7472756526617265613d74727565" alt="ovi" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&amp;theme=gruvbox&amp;hide_border=true&amp;area=true"></a></td>
+</tr>
+</tbody>
+</table>
 <!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true)
   -->
