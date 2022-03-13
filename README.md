@@ -19,7 +19,7 @@
 <img align="right" width="591px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/6225d1124e42f.jpg"/>
 <div width="50%">
 	
-- 🔭 I’m currently learning  <samp align="center">  -- Python and Web Dev -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
+- 🔭 I’m currently learning  <samp align="center">-- Python and Web Dev -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
 
 - 🌱 I’m currently exploring various fields of <samp align="center">  -- Coding -- </samp>
 
