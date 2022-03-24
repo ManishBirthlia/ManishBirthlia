@@ -17,7 +17,7 @@
 <!-- <img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/> -->
 <!-- <img align="right" ="10px" width="400px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
 <img align="right" width="591px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/6225d1124e42f.jpg"/>
-<div width="50%">
+<div width="51%">
 	
 - 🔭 I’m currently learning  <samp align="center">-- Python and Web Dev -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
 
