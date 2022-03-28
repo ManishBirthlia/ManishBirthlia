@@ -29,7 +29,7 @@
 - 😄 Pronouns: He/His.
 
 <!-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136/), manishbirthliya@gmail.com
-</div> -->
+</div>-->
 ### Connect with me on :left_speech_bubble:
 <br>	
 <p align="left">
