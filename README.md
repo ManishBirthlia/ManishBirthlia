@@ -21,7 +21,7 @@
 	
 - 🔭 I’m currently exploring  <samp align="center">-- Backend in Web Develpment -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
 
-- 🌱 I’m Daily learning and horning my skills by doing lots of question on Data-Structure & Algorithms on <samp align="center">  -- CodeForce, LeetCode, CodeChef -- </samp>
+- 🌱 I’m Daily learning and honing my skills by doing lots of question on Data-Structure & Algorithms on <samp align="center">  -- CodeForce, LeetCode, CodeChef -- </samp>
 
 - 💬 I love talking about Android and Web Dev, so don't hesitate to say hi!   
   
