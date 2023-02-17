@@ -1,7 +1,7 @@
 
 <!-- <img align="right" height="260px" width="300px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
-<p align="center"><h2 align="center"> <samp>👋Hi there! It's Manish Birthlia is Here </samp></h2></p>
-<p align="center" color="slategrey" font-family="sans-serif"><h1 align="center"><samp> Full Stack Web Developer
+<p align="center"><h2 align="center"> <samp> Full Stack Web Developer</samp></h2></p>
+<p align="center" color="slategrey" font-family="sans-serif"><h1 align="center"><samp>Hello! My name is Manish Birthlia and I'm excited to connect with you here on GitHub!
  </samp></h1></p>
 <p align="center"><h4 align="center"><samp> Experience is the name everyone gives to their mistakes </samp></h4></p>
 
