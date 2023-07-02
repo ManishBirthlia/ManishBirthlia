@@ -206,6 +206,6 @@
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&area=true&hide_border=true">
 <h2>Summery of my Profile </h2>
 <p align="center">
-<img width="100%" src="https://metrics.lecoq.io/ManishBirthlia">
+<img src="https://metrics.lecoq.io/ManishBirthlia">
 </p>
 <!-- [𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true) -->
