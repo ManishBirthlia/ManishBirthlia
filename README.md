@@ -2,7 +2,7 @@
 <!-- <img align="right" height="260px" width="300px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
 <p align="center"><h1 align="center"> <samp> Full Stack Web Developer</samp></h2></p>
 <p align="center" color="slategrey" font-family="sans-serif"><h2 align="center"><samp>Hello! My name is Manish Birthlia and I'm excited to connect with you here on GitHub!
- </samp></h1></p>
+ </samp></h2></p>
 <p align="center"><h4 align="center"><samp> Experience is the name everyone gives to their mistakes </samp></h4></p>
 
 <p align="center"> 
@@ -199,9 +199,13 @@
 <tbody>
 <tr>
 <td><p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e53c1b37ed0c6ebaa4a24334f16774885c8105fd6d8ba9c369c790dd4b18ec8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d616e69736842697274686c69612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d68696768636f6e7472617374"><img width="100%" src="https://camo.githubusercontent.com/e53c1b37ed0c6ebaa4a24334f16774885c8105fd6d8ba9c369c790dd4b18ec8a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d4d616e69736842697274686c69612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d68696768636f6e7472617374" alt="ovi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=highcontrast"></a></p></td>
-<td><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c65c861d2a23cb26d942ea0372935522cffd33b2c011af20367a9f0b6b671af1/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4d616e69736842697274686c6961267468656d653d67727576626f7826686964655f626f726465723d7472756526617265613d74727565"><img  height="" src="https://camo.githubusercontent.com/c65c861d2a23cb26d942ea0372935522cffd33b2c011af20367a9f0b6b671af1/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d4d616e69736842697274686c6961267468656d653d67727576626f7826686964655f626f726465723d7472756526617265613d74727565" alt="ovi" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&amp;theme=gruvbox&amp;hide_border=true&amp;area=true"></a></td>
+<td><img src="https://github-profile-trophy.vercel.app/?username=ManishBirthlia&theme=onedark" ></td>
 </tr>
 </tbody>
 </table>
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true)
-  -->
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&area=true&hide_border=true">
+<h2>Summery of my Profile </h2>
+<p align="center">
+<img width="100%" src="https://metrics.lecoq.io/ManishBirthlia">
+</p>
+<!-- [𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true) -->
