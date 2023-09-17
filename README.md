@@ -4,7 +4,6 @@
 <p align="center" color="slategrey" font-family="sans-serif"><h2 align="center"><samp>Hello! My name is Manish Birthlia and I'm excited to connect with you here on GitHub!
  </samp></h2></p>
 <p align="center"><h4 align="center"><samp> Experience is the name everyone gives to their mistakes </samp></h4></p>
-
 <p align="center"> 
 	<a href="https://github.com/ManishBirthlia"><img src="https://komarev.com/ghpvc/?username=ManishBirthlia" alt="ManishBirthlia"/></a>
 	<a href="https://github.com/ManishBirthlia?tab=repositories"><img src="https://badges.pufler.dev/repos/ManishBirthlia" alt="ManishBirthlia" /></a>
