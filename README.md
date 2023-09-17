@@ -17,7 +17,6 @@
 <!-- <img align="right" ="10px" width="400px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
 <img align="right" width="591px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/6225d1124e42f.jpg"/>
 <div width="50%">
-	
 - 🔭 I’m currently exploring  <samp align="center">-- Backend in Web Develpment -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
 
 - 🌱 I’m Daily learning and honing my skills by doing lots of question on Data-Structure & Algorithms on <samp align="center">  -- CodeForce, LeetCode, CodeChef -- </samp>
