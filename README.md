@@ -15,7 +15,9 @@
 <!-- img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="300px" alt=gif align="right"--> 
 <!-- <img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/> -->
 <!-- <img align="right" ="10px" width="400px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
-<img align="right" width="591px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/6225d1124e42f.jpg"/>
+<img align="right" width="591px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96776615/268708924-70807aa4-124f-402b-9de5-4fedb2aa2730.jpg"/>
+<!-- ![naruto background](https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/70807aa4-124f-402b-9de5-4fedb2aa2730) -->
+
 <div width="50%">
 - 🔭 I’m currently exploring  <samp align="center">-- Backend in Web Develpment -- </samp>  <!-- [enviroCar](https://github.com/enviroCar)  -->
 
@@ -31,7 +33,7 @@
 ### Connect with me on :left_speech_bubble:
 <br>	
 <p align="left">
-<a href="https://https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136//" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/manish-birthlia//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/manish-birthlia//" height="30" width="40" /></a>
 <a href="https://leetcode.com/ManishBirthlia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
 <a href="https://twitter.com/BirthliaManish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
 <a href="https://www.instagram.com/manishbirthlia_0_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishbirthlia_0_0" height="30" width="40" /></a>
