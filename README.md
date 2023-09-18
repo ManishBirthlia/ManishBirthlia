@@ -28,23 +28,35 @@
 - 🥇 Open Source and Coding Enthusiast.
 - 😄 Pronouns: He/His.
 
-<!-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manish-birthlia-2nd-yr-022636136/), manishbirthliya@gmail.com
-</div>-->
-### Connect with me on :left_speech_bubble:
+ 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manish-birthlia/), [Email](mailto:manishbirthliya@gmail.com)
+</div>
+<h2>Connect with me on :left_speech_bubble:</h2> 
 <br>	
 <p align="left">
-<a href="https://https://www.linkedin.com/in/manish-birthlia//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://https://www.linkedin.com/in/manish-birthlia//" height="30" width="40" /></a>
-<a href="https://leetcode.com/ManishBirthlia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="username" height="30" width="40" /></a>
-<a href="https://twitter.com/BirthliaManish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="username" height="30" width="40" /></a>
-<a href="https://www.instagram.com/manishbirthlia_0_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manishbirthlia_0_0" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/manish-birthlia//" target="blank">
+<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/86cbc0a4-0a4a-4619-9935-08164eea4930" alt="https://https://www.linkedin.com/in/manish-birthlia//" height="30" width="30" /></a>
+
+<a href="https://leetcode.com/ManishBirthlia/" target="blank">
+<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/ea12dec2-1758-4ee4-a423-6793f59312e1" alt="username" height="30" width="30" /></a>
+
+<a href="https://www.codechef.com/users/manishbirthlia/" target="blank">
+<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/6ee932ef-184d-4835-a170-fdfc3d810379" alt="username" height="30" width="30" /></a>
+
+<a href="https://codeforces.com/profile/Manish_NovoRetix/" target="blank">
+<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/65fb7b4f-6e8a-477a-a969-4aaf2cd14b62" alt="username" height="30" width="30" /></a>
+
+<a href="https://twitter.com/BirthliaManish" target="blank">
+<img align="center" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-icon-logo-twitter-logo-twitter-logo-blue-social-media-thumbnail.png" alt="username" height="30" width="30" /></a>
+
+<a href="https://www.instagram.com/manishbirthlia_0_0/" target="blank">
+<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/7a30a10f-34eb-4e50-b999-4cf075164e9b" alt="manishbirthlia_0_0" height="30" width="30" /></a>
 </p>
- 
-	
+ 	
 ## Languages and Tools </h3>
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank">
         <img
-            src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
+            src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png"
             alt="c"
             width="40"
             height="40"
