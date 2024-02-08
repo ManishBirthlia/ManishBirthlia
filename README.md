@@ -10,7 +10,7 @@
 	<img src="https://img.shields.io/github/stars/ManishBirthlia?label=Stars" alt="Total Stars">
 </p>
 <br>
-<!-- Manish Kumar    -->
+<!-- Manish Kumar   -->
 <!-- contribution graph -->
 <!-- img src="https://media.giphy.com/media/qzOs8XQGFNIoCiWo4r/giphy.gif" width="350px" height="300px" alt=gif align="right"--> 
 <!-- <img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/> -->
