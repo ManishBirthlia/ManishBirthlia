@@ -1,20 +1,23 @@
 
 <!-- <img align="right" height="260px" width="300px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
-<p align="center"><h1 align="center"> <samp>Software Developer Engineer</samp></h2></p>
+<p align="center"><h1 align="center"> <samp>
+	
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Web+and+App+Developer;Open+Source+Contributor+in+;GSSoC'24%2C+SSOC'24++and+SWOC'24;Always+learning+new+things!)</samp></h2></p>
+
 <p align="center" color="slategrey" font-family="sans-serif"><h2 align="center"><samp>Hello! My name is Manish Birthlia and I'm excited to connect with you here on GitHub!
  </samp></h2></p>
 <p align="center"><h4 align="center"><samp> Experience is the name everyone gives to their mistakes </samp></h4></p>
+
 <p align="center"> 
 	<a href="https://github.com/ManishBirthlia"><img src="https://komarev.com/ghpvc/?username=ManishBirthlia" alt="ManishBirthlia"/></a>
 	<a href="https://github.com/ManishBirthlia?tab=repositories"><img src="https://badges.pufler.dev/repos/ManishBirthlia" alt="ManishBirthlia" /></a>
 	<img src="https://img.shields.io/github/stars/ManishBirthlia?label=Stars" alt="Total Stars">
 </p>
 <be>
-<img src="https://github-profile-trophy.vercel.app/?username=ManishBirthlia&theme=onedark" width="100%">
 <!-- Manish Kumar -->
 <!-- contribution graph -->
 <!-- <img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/> -->
-<img align="right" width="591px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96776615/268708924-70807aa4-124f-402b-9de5-4fedb2aa2730.jpg"/>
+<img align="right" width="400px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96776615/268708924-70807aa4-124f-402b-9de5-4fedb2aa2730.jpg"/>
 
 <div width="50%">
 	
@@ -61,14 +64,16 @@
 |---|---|
 |<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>|<img src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true" alt="ovi" />|
   -->
-	
 <table>
 <thead>
 <tr>
 <th>
 	
-![Manish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&theme=dark#gh-dark-mode-only)
-![Manish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&theme=default#gh-light-mode-only)
+![roadmap.sh](https://roadmap.sh/card/wide/6592f788ae22c1252306facc?bg_color=0A0F0B&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdatastructures-and-algorithms)
+</th>
+<th>
+	
+![Manish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&title_color=F7DF1E&icon_color=F7DF1E&border_color=F7DF1E&bg_color=0A0F0B&border_radius=5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)
 </th>
 </tr>
 </thead>
@@ -76,11 +81,11 @@
 <tr>	
 <td>
 	
-[![roadmap.sh](https://roadmap.sh/card/wide/6592f788ae22c1252306facc?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBirthlia&layout=compact&card_width=500&langs_count=20&title_color=F7DF1E&bg_color=0A0F0B&icon_color=F7DF1E&border_color=F7DF1E&border_radius=5&text_color=FFFFFF)
 </td>
 <td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ManishBirthlia&theme=javascript-dark&border_radius=5&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=ManishBirthlia&theme=javascript-dark&background=0A0F0B&border_radius=5&date_format=j%20M%5B%20Y%5D)
 </td>
 </tr>
 </tbody>
@@ -91,6 +96,8 @@
 <!-- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&area=true&hide_border=true"> -->
 <h2>Summery of my Profile </h2>
 <p align="center">
-<img src="https://metrics.lecoq.io/ManishBirthlia">
+<img src="https://metrics.lecoq.io/insights/ManishBirthlia">
 </p>
 <!-- [𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true) -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=ManishBirthlia&theme=onedark" width="100%">
