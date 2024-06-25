@@ -65,22 +65,30 @@
 <table>
 <thead>
 <tr>
-<th><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&show_icons=true&locale=en&layout=compact" alt="ManishBirthlia" width="100%" /></p></th>
-<th width="50%"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&locale=en" alt="ManishBirthlia" height="100%" theme="dark" /></p></th>
+<th>
+	
+![Manish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&theme=dark#gh-dark-mode-only)
+![Manish's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&theme=default#gh-light-mode-only)
+</th>
 </tr>
 </thead>
 <tbody>
 <tr>	
 <td>
 	
-[![roadmap.sh](https://roadmap.sh/card/wide/6592f788ae22c1252306facc?variant=dark)](https://roadmap.sh)
-
+[![roadmap.sh](https://roadmap.sh/card/wide/6592f788ae22c1252306facc?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 </td>
-<td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBirthlia&" alt="ManishBirthlia" width="100%" /></p></td>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ManishBirthlia&theme=javascript-dark&border_radius=5&date_format=j%20M%5B%20Y%5D)
+</td>
 </tr>
 </tbody>
 </table>
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&area=true&hide_border=true">
+
+![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=merko&color=F7DF1E&area=true&area_color=F7DF1E&point=FFFFFF&line=F7DF1E&radius=10&days=45)
+
+<!-- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&area=true&hide_border=true"> -->
 <h2>Summery of my Profile </h2>
 <p align="center">
 <img src="https://metrics.lecoq.io/ManishBirthlia">
