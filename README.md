@@ -1,109 +1,352 @@
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--           MANISH BIRTHLIA — DEVELOPER DASHBOARD README       -->
+<!-- ████████████████████████████████████████████████████████████ -->
 
-<!-- <img align="right" height="260px" width="300px" src="https://github.com/ManishBirthlia/Manish-Profile/blob/main/pngwing.com.png"/> -->
-<p align="center"><h1 align="center"> <samp>
-	
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7DF1E&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Web+and+App+Developer;Open+Source+Contributor+in+;GSSoC'24%2C+SSOC'24++and+SWOC'24;Always+learning+new+things!)</samp></h2></p>
+<div align="center">
 
-<p align="center" color="slategrey" font-family="sans-serif"><h2 align="center"><samp>Hello! My name is Manish Birthlia and I'm excited to connect with you here on GitHub!
- </samp></h2></p>
-<p align="center"><h4 align="center"><samp>
+<!-- ANIMATED TERMINAL HEADER -->
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ██████╗ ███████╗██╗   ██╗    ████████╗███████╗██████╗ ███╗     ║
+║  ██╔══██╗██╔════╝██║   ██║       ██╔══╝██╔════╝██╔══██╗████╗    ║
+║  ██║  ██║█████╗  ██║   ██║       ██║   █████╗  ██████╔╝██╔██╗   ║
+║  ██║  ██║██╔══╝  ╚██╗ ██╔╝       ██║   ██╔══╝  ██╔══██╗██║╚██╗  ║
+║  ██████╔╝███████╗ ╚████╔╝        ██║   ███████╗██║  ██║██║ ╚██╗ ║
+║  ╚═════╝ ╚══════╝  ╚═══╝         ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-[My Resume](https://drive.google.com/file/d/1ZX1neU97zLykXxvB9KTr9NWXVGMGi2-s/view?usp=drive_link)
-</samp></h4></p>
-<p align="center"><h4 align="center"><samp> Experience is the name everyone gives to their mistakes </samp></h4></p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FF94&center=true&vCenter=true&random=false&width=700&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Agents+%26+LLM+Applications;Python+%7C+C%2B%2B+%7C+System+Design+%7C+DevOps;Open+Source+Contributor+%7C+Content+Creator;%24+building+in+public+--daily)](https://git.io/typing-svg)
 
-<p align="center"> 
-	<a href="https://github.com/ManishBirthlia"><img src="https://komarev.com/ghpvc/?username=ManishBirthlia" alt="ManishBirthlia"/></a>
-	<a href="https://github.com/ManishBirthlia?tab=repositories"><img src="https://badges.pufler.dev/repos/ManishBirthlia" alt="ManishBirthlia" /></a>
-	<img src="https://img.shields.io/github/stars/ManishBirthlia?label=Stars" alt="Total Stars">
+<!-- LIVE STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-%2300FF94?style=for-the-badge&logo=rocket&logoColor=black" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20LLM%20SYSTEMS-%237B61FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MODE-LEARNING%20DAILY-%2300C2FF?style=for-the-badge&logo=bookstack&logoColor=white" />
 </p>
-<be>
-<!-- Manish Kumar            -->
-<!-- contribution graph -->
-<!-- <img align="right" ="10px" width="400px" src="https://user-images.githubusercontent.com/96776615/156993801-d8d72515-03a9-4421-8166-4cc1feed507b.gif"/> -->
-<img align="right" width="400px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96776615/268708924-70807aa4-124f-402b-9de5-4fedb2aa2730.jpg"/>
 
-<div width="50%">
-	
-- 🔭 I’m currently working on <strong>MERN Stack and Cloud Computing</strong>
+<!-- PROFILE VIEWS + REPO COUNT + STARS -->
+<p>
+  <a href="https://github.com/ManishBirthlia">
+    <img src="https://komarev.com/ghpvc/?username=ManishBirthlia&style=for-the-badge&color=00FF94&label=PROFILE+VIEWS" />
+  </a>
+  <a href="https://github.com/ManishBirthlia?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/ManishBirthlia?style=for-the-badge&color=7B61FF&label=REPOS" />
+  </a>
+  <img src="https://img.shields.io/github/stars/ManishBirthlia?style=for-the-badge&color=F7DF1E&label=TOTAL+STARS&logo=github" />
+</p>
 
-- 🌱 I’m Daily learning and honing my skills by doing lots of questions on <strong>Data-Structure & Algorithms</strong> on <samp align="center">  -- CodeForce, LeetCode, CodeChef -- </samp>
-
-- 💬 I love talking about Android and Web Dev, so don't hesitate to say hi!   
-  
-- 🥇 Open Source and Coding Enthusiast.
-- 😄 Pronouns: He/His.
-
- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/manish-birthlia/), [Email](mailto:manishbirthliya@gmail.com)
 </div>
-<h2>Connect with me on :left_speech_bubble:</h2> 
-<br>	
-<p align="left">
-<a href="https://https://www.linkedin.com/in/manish-birthlia//" target="blank">
-<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/86cbc0a4-0a4a-4619-9935-08164eea4930" alt="https://https://www.linkedin.com/in/manish-birthlia//" height="30" width="30" /></a>
 
-<a href="https://leetcode.com/ManishBirthlia/" target="blank">
-<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/ea12dec2-1758-4ee4-a423-6793f59312e1" alt="username" height="30" width="30" /></a>
+---
 
-<a href="https://www.codechef.com/users/manishbirthlia/" target="blank">
-<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/6ee932ef-184d-4835-a170-fdfc3d810379" alt="username" height="30" width="30" /></a>
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                      SYSTEM TERMINAL                         -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-<a href="https://codeforces.com/profile/Manish_NovoRetix/" target="blank">
-<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/65fb7b4f-6e8a-477a-a969-4aaf2cd14b62" alt="username" height="30" width="30" /></a>
+<img align="right" width="380" src="https://github-production-user-asset-6210df.s3.amazonaws.com/96776615/268708924-70807aa4-124f-402b-9de5-4fedb2aa2730.jpg" style="border-radius:12px"/>
 
-<a href="https://twitter.com/BirthliaManish" target="blank">
-<img align="center" src="https://e7.pngegg.com/pngimages/708/311/png-clipart-icon-logo-twitter-logo-twitter-logo-blue-social-media-thumbnail.png" alt="username" height="30" width="30" /></a>
+```bash
+┌─[manish@dev-terminal]─[~]
+└──╼ $ whoami --verbose
 
-<a href="https://www.instagram.com/manishbirthlia_0_0/" target="blank">
-<img align="center" src="https://github.com/ManishBirthlia/ManishBirthlia/assets/96776615/7a30a10f-34eb-4e50-b999-4cf075164e9b" alt="manishbirthlia_0_0" height="30" width="30" /></a>
-</p>
- 	
-## Languages and Tools </h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+  Name    : Manish Birthlia
+  Role    : AI Engineer + Full Stack Developer
+  Focus   : LLM Systems · Agentic AI · DevOps
+  OS      : Arch Linux (btw)
+  Editor  : VS Code + Claude Code
+  Coffee  : Always ☕
 
-  	
-   
-## Statistics
-<!-- |<img src="https://github-readme-stats.vercel.app/api?username=ManishBirthlia&show_icons=true&&count_private=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishBirthlia&theme=dark&hide_border=true"/>|
-|---|---|
-|<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManishBirthlia&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="ovi" /></p>|<img src="https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true" alt="ovi" />|
-  -->
+┌─[manish@dev-terminal]─[~]
+└──╼ $ cat current_mission.txt
+
+  → Building AI-powered Telegram Bot (Groq + Nvidia)
+  → LinkedIn Automation Pipeline (Claude API)
+  → Creating dev content daily on LinkedIn
+  → Mastering System Design + DSA
+
+┌─[manish@dev-terminal]─[~]
+└──╼ $ uptime --learning
+
+  DSA         ████████████░░  [Active — LeetCode daily]
+  AI/ML       ██████████████  [Primary Focus 2025-26]
+  System Design ██████████░░  [Advancing]
+  DevOps      ████████░░░░░░  [In Progress]
+
+┌─[manish@dev-terminal]─[~]
+└──╼ $ echo $REACH
+  LinkedIn · GitHub · LeetCode · CodeForces · CodeChef
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                    CURRENTLY BUILDING                        -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## `$ ls -la ./current_projects/`
+
 <table>
-<thead>
 <tr>
-<th>
-	
-![roadmap.sh](https://roadmap.sh/card/wide/6592f788ae22c1252306facc?bg_color=0A0F0B&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdatastructures-and-algorithms)
-</th>
-<th>
-	
-![Manish's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&title_color=F7DF1E&icon_color=F7DF1E&border_color=F7DF1E&bg_color=0A0F0B&border_radius=5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark#gh-dark-mode-only)
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>	
-<td>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBirthlia&layout=compact&card_width=500&langs_count=20&title_color=F7DF1E&bg_color=0A0F0B&icon_color=F7DF1E&border_color=F7DF1E&border_radius=5&text_color=FFFFFF)
-</td>
-<td>
+<td width="50%">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ManishBirthlia&theme=javascript-dark&background=0A0F0B&border_radius=5&date_format=j%20M%5B%20Y%5D)
+### 🤖 Netrix AI Telegram Bot
+![Status](https://img.shields.io/badge/STATUS-DAY%204%20SHIPPING-%2300FF94?style=flat-square)
+![Stack](https://img.shields.io/badge/STACK-Python%20%7C%20Groq%20%7C%20Nvidia-%237B61FF?style=flat-square)
+
+> AI-powered Telegram bot with video downloading from 1000+ platforms, AI image generation via Stable Diffusion 3, multi-turn chat via Groq LLMs, and audio/video transcription — built in public, shipped daily.
+
+**Features Shipped:**
+- ✅ `/downloader` — 1000+ platform video download
+- ✅ `/generateImage` — Nvidia SD3 image gen
+- ✅ `/chat` — Groq + Nvidia LLM multi-turn AI
+- 🔄 Audio & video transcription (next)
+
+</td>
+<td width="50%">
+
+### ⚡ LinkedIn Automation Pipeline
+![Status](https://img.shields.io/badge/STATUS-80%25%20AUTOMATED-%2300C2FF?style=flat-square)
+![Stack](https://img.shields.io/badge/STACK-Python%20%7C%20Claude%20API%20%7C%20Buffer-%23F7DF1E?style=flat-square)
+
+> Full pipeline: trend scraper (HN + GitHub + RSS) → Claude AI content generator → ReportLab carousel builder → Buffer API publisher → Google Sheets analytics.
+
+**Modules Built:**
+- ✅ Trend Scraper (HN + GitHub + RSS)
+- ✅ AI Post Generator (Claude API)
+- ✅ Auto Carousel PDF Builder
+- ✅ Scheduler + Buffer Publisher
+
 </td>
 </tr>
-</tbody>
 </table>
 
-![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=merko&color=F7DF1E&area=true&area_color=F7DF1E&point=FFFFFF&line=F7DF1E&radius=10&days=45)
+---
 
-<!-- <img  src="https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&area=true&hide_border=true"> -->
-<h2>Summery of my Profile </h2>
-<p align="center">
-	
-<!-- ![Metrics](https://github.com/ManishBirthlia/ManishBirthlia/blob/main/github-metrics.svg) -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                      AI / LLM STACK                          -->
+<!-- ════════════════════════════════════════════════════════════ -->
 
-</p>
-<!-- [𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ManishBirthlia&theme=gruvbox&hide_border=true&area=true) -->
+## `$ cat ./ai_stack.json`
 
-<img src="https://github-profile-trophy.vercel.app/?username=ManishBirthlia&theme=onedark" width="100%">
+<div align="center">
+
+| Model / Tool | Use Case | Status |
+|:---:|:---:|:---:|
+| ![Claude](https://img.shields.io/badge/Claude_API-Anthropic-FF6B2B?style=flat-square&logo=anthropic) | Content Generation · Code | `ACTIVE` |
+| ![Groq](https://img.shields.io/badge/Groq_LLM-LLaMA_3.3-00FF94?style=flat-square) | Telegram Bot Chat | `ACTIVE` |
+| ![Nvidia](https://img.shields.io/badge/Nvidia_NIM-SD3_·_LLMs-76B900?style=flat-square&logo=nvidia) | Image Gen · Inference | `ACTIVE` |
+| ![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-7B61FF?style=flat-square) | Local Dev · Privacy | `ACTIVE` |
+| ![LlamaParse](https://img.shields.io/badge/LlamaParse-Doc_Parsing-00C2FF?style=flat-square) | RAG Pipelines | `LEARNING` |
+| ![MCP](https://img.shields.io/badge/MCP-Agent_Protocol-F7DF1E?style=flat-square) | AI Agent Tools | `LEARNING` |
+| ![AirLLM](https://img.shields.io/badge/AirLLM-70B_on_4GB_GPU-FF4560?style=flat-square) | Local 70B Models | `EXPLORING` |
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                    TECH SKILL MATRIX                         -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## `$ ./skills --display matrix`
+
+<details open>
+<summary><b>🐍 AI & Python Ecosystem</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-★★★★★-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-★★★★☆-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-★★★☆☆-1C3C3C?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Anthropic_SDK-★★★★☆-FF6B2B?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-★★★★☆-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Full Stack</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-★★★★☆-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-★★★★☆-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-★★★★☆-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-★★★★☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-★★★☆☆-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps & Systems</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-★★★★☆-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-★★★★☆-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-★★★☆☆-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-★★★★★-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-★★★☆☆-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-★★★☆☆-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🎮 C++ & Systems Programming</b></summary>
+<br>
+
+![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-★★★★☆-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![DSA](https://img.shields.io/badge/Data_Structures-★★★★☆-7B61FF?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-★★★☆☆-00FF94?style=for-the-badge)
+
+</details>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS DASHBOARD                    -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## `$ github-stats --user ManishBirthlia --full`
+
+<div align="center">
+
+<!-- ROADMAP -->
+![roadmap.sh](https://roadmap.sh/card/wide/6592f788ae22c1252306facc?bg_color=0A0F0B&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cdatastructures-and-algorithms)
+
+<br>
+
+<!-- STATS + STREAK -->
+<table>
+<tr>
+<td>
+
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManishBirthlia&title_color=00FF94&icon_color=00FF94&border_color=00FF94&bg_color=0A0F0B&border_radius=8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&text_color=ffffff)
+
+</td>
+<td>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ManishBirthlia&theme=javascript-dark&background=0A0F0B&border=00FF94&ring=00FF94&fire=FF6B2B&currStreakLabel=00FF94&border_radius=8&date_format=j%20M%5B%20Y%5D)
+
+</td>
+</tr>
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBirthlia&layout=compact&card_width=400&langs_count=12&title_color=00FF94&bg_color=0A0F0B&icon_color=00FF94&border_color=00FF94&border_radius=8&text_color=FFFFFF&theme=dark)
+
+</td>
+<td>
+
+<!-- WAKATIME or extra stat -->
+![Metrics](https://img.shields.io/badge/DAILY%20DRIVER-Python%20%7C%20AI%20%7C%20React-00FF94?style=for-the-badge&logo=visualstudiocode)
+
+![Lines](https://img.shields.io/badge/APPROACH-Build%20%E2%86%92%20Ship%20%E2%86%92%20Learn-7B61FF?style=for-the-badge)
+
+![Mode](https://img.shields.io/badge/CONTENT-Building%20In%20Public%20Daily-FF6B2B?style=for-the-badge)
+
+</td>
+</tr>
+</table>
+
+<!-- ACTIVITY GRAPH -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManishBirthlia&theme=react-dark&color=00FF94&area=true&area_color=00FF9430&point=FFFFFF&line=00FF94&radius=8&days=45&bg_color=0A0F0B&border_color=00FF94)
+
+<!-- TROPHIES -->
+<br>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ManishBirthlia&theme=onestar&no-frame=true&no-bg=true&column=8&margin-w=4)
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                  COMPETITIVE PROGRAMMING                     -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## `$ ./competitive --platforms`
+
+<div align="center">
+
+| Platform | Handle | Focus |
+|:---:|:---:|:---:|
+| [![LeetCode](https://img.shields.io/badge/LeetCode-ManishBirthlia-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ManishBirthlia/) | `ManishBirthlia` | DSA · Daily Practice |
+| [![CodeForces](https://img.shields.io/badge/CodeForces-Manish__NovoRetix-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Manish_NovoRetix/) | `Manish_NovoRetix` | Competitive Programming |
+| [![CodeChef](https://img.shields.io/badge/CodeChef-manishbirthlia-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/manishbirthlia/) | `manishbirthlia` | Contests |
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                     CONNECT + SOCIALS                        -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## `$ connect --manish --all-channels`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-birthlia/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BirthliaManish)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manishbirthlia_0_0/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishbirthliya@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-00FF94?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1ZX1neU97zLykXxvB9KTr9NWXVGMGi2-s/view?usp=drive_link)
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                   CONTENT & LEARNING                         -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+## `$ cat ./content_stack.md`
+
+<div align="center">
+
+```
+📌 What I write about on LinkedIn (daily):
+┌─────────────────────────────────────────────┐
+│  🐍 Python tips & tricks                    │
+│  🤖 AI/LLM tools (Ollama, MCP, AirLLM...)  │
+│  🏗️  System Design patterns                 │
+│  ⚙️  DevOps & CI/CD workflows               │
+│  🎮 C++ & Game Development                  │
+│  📑 Carousel PDFs on deep tech topics       │
+│  🔨 Building in Public — daily updates      │
+└─────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- ════════════════════════════════════════════════════════════ -->
+<!--                        PHILOSOPHY                            -->
+<!-- ════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   "Experience is the name everyone gives          ║
+║    to their mistakes."                            ║
+║                                        — Manish   ║
+║                                                   ║
+║   $ git commit -m "keep building, keep shipping"  ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+
+</div>
+
+<!-- ████████████████████████████████████████████████████████████ -->
+<!--  Built with ❤️ by Manish Birthlia · Updated daily           -->
+<!-- ████████████████████████████████████████████████████████████ -->
